@@ -5,27 +5,27 @@ PGLife is a web-based application designed to help students and working professi
 ## 🚀 Features
 
 - 🌍 **City-Based PG Listings** - Find PGs in different cities.
-- 
+  
 - 🔍 **Search & Filters** - Search PGs by name and filter based on price, amenities, and more.
-- 
+  
 - 📸 **PG Details Page** - View detailed descriptions, images, rent, and facilities.
-- 
+  
 - 🛒 **Booking System** - Users can book PGs through the platform.
-- 
+  
 - 👤 **User Authentication** - Sign up and log in to save/book PGs.
-- 
+  
 - ⭐ **Reviews & Ratings** - Users can rate and review PGs.
-- 
+  
 - 📱 **Responsive Design** - Works on mobile, tablet, and desktop screens.
 
 ## 🛠️ Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
-- 
+  
 - **Backend**: PHP, MySQL
-- 
+  
 - **Database**: MySQL
-- 
+  
 - **Version Control**: Git, GitHub
 
 ## ⚡ Getting Started
