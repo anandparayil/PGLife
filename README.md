@@ -32,7 +32,7 @@ PGLife is a web-based application designed to help students and working professi
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/yourusername/PGLife.git
+git clone https://github.com/anandparayil/PGLife.git
 
 cd PGLife
 
